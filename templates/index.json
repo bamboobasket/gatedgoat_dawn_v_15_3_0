@@ -239,7 +239,7 @@
         "column_HFGYpK": {
           "type": "column",
           "settings": {
-            "title": "Lia J.",
+            "title": "<strong>Lia J.</strong>",
             "text": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>“Love how bold this looks. Wore the GATEDGOAT hoodie to a show and everybody asked where I got it.”</p>",
             "link_label": "",
             "link": ""
@@ -248,8 +248,26 @@
         "column_aVhNE9": {
           "type": "column",
           "settings": {
-            "title": "Chris B.",
+            "title": "<strong>Chris B.</strong>",
             "text": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>“Real street vibe, real quality. Shipping was fast too. Already waiting for the next drop.”</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MDn4ia": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Devin K.</strong>",
+            "text": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>“The street style is next level — fits loose just like I like. GATEDGOAT is my new go-to.”</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XD73Da": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Sasha V.</strong>",
+            "text": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>“Ordered for the drop, didn’t disappoint. Heavy, high quality feel, not some cheap tee.”</p>",
             "link_label": "",
             "link": ""
           }
@@ -258,20 +276,23 @@
       "block_order": [
         "column_BxPhpt",
         "column_HFGYpK",
-        "column_aVhNE9"
+        "column_aVhNE9",
+        "column_MDn4ia",
+        "column_XD73Da"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "<strong>REVIEWS</strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
