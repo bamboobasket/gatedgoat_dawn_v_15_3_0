@@ -1,1 +1,402 @@
-{"sections":{"image_banner":{"type":"image-banner","blocks":{"heading":{"type":"heading","settings":{"heading":"Browse our latest products","heading_size":"h0"}},"button":{"type":"buttons","settings":{"button_label_1":"Shop all","button_link_1":"shopify:\/\/collections\/all","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading","button"],"settings":{"image":"shopify:\/\/shop_images\/banner_6.png","image_overlay_opacity":40,"image_height":"large","image_behavior":"none","desktop_content_position":"bottom-center","desktop_content_alignment":"center","show_text_box":false,"color_scheme":"scheme-3","stack_images_on_mobile":false,"mobile_content_alignment":"center","show_text_below":false}},"rich_text_KfLFDg":{"type":"rich-text","blocks":{"heading_tP66Ki":{"type":"heading","settings":{"heading":"Legends don’t die — they get printed.","heading_size":"h1"}},"text_x7Y3Cr":{"type":"text","settings":{"text":"<p>Wear the legend. Live the story.<\/p>"}}},"block_order":["heading_tP66Ki","text_x7Y3Cr"],"name":"t:sections.rich-text.presets.name","settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}},"featured_collection":{"type":"featured-collection","settings":{"collection":"all","products_to_show":8,"title":"Featured products","heading_size":"h2","description":"","show_description":false,"description_style":"body","columns_desktop":4,"enable_desktop_slider":false,"full_width":false,"show_view_all":true,"view_all_style":"solid","color_scheme":"scheme-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"quick_add":"none","columns_mobile":"2","swipe_on_mobile":false,"padding_top":44,"padding_bottom":36}},"multicolumn_eBgDEc":{"type":"multicolumn","blocks":{"column_4mrJgM":{"type":"column","settings":{"title":"<strong>For the Culture<\/strong>","text":"<p><br\/>Inspired by the beats, the blocks, and the bars that built our world. Gear up in pieces that speak loud.<br\/><br\/><\/p>","link_label":"","link":""}},"column_8nk8F6":{"type":"column","settings":{"title":"<strong>Legend Energy<\/strong>","text":"<p><br\/>Streetwear with a story. Each drop designed to honor icons — past, present, and next up.<br\/><br\/><\/p>","link_label":"","link":""}},"column_AaNnTj":{"type":"column","settings":{"title":"<strong>Set the Tone<\/strong>","text":"<p><br\/>Stand out, stay real. From chill days to loud nights, GATEDGOAT keeps you ahead of the wave.<br\/><br\/><\/p>","link_label":"","link":""}}},"block_order":["column_4mrJgM","column_8nk8F6","column_AaNnTj"],"name":"t:sections.multicolumn.presets.name","settings":{"title":"<strong>INSIGHT & INSPIRATION<\/strong>","heading_size":"h1","image_width":"full","image_ratio":"adapt","button_label":"Shop the Drop","button_link":"shopify:\/\/collections\/all","columns_desktop":3,"column_alignment":"left","background_style":"primary","color_scheme":"","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"collapsible_content_zDTxEr":{"type":"collapsible-content","blocks":{"collapsible_row_3cJJ7V":{"type":"collapsible_row","settings":{"heading":"What's my size?","icon":"check_mark","row_content":"<p>You can find our <strong>measurement guide<\/strong> on the product page. Select the size you want and we will show you what body measurements it is tailored to.<\/p>","page":""}},"collapsible_row_WcEknk":{"type":"collapsible_row","settings":{"heading":"How do I wash my gear?","icon":"check_mark","row_content":"<p>Machine wash cold, inside out, hang dry for best life.<\/p>","page":""}},"collapsible_row_JAwUcA":{"type":"collapsible_row","settings":{"heading":"How long do orders usually take to ship?","icon":"check_mark","row_content":"<p>As soon as you make a purchase, our fulfillment center immediately processes your order to get your gear delivered on time. Ground orders can take up to 3-4 business days to be packed and shipped. Once shipped, ground shipments can take as little as 4-5 business days to destinations within California and up to 5-10 business days to locations on the East Coast.<\/p>","page":""}},"collapsible_row_Yzn6c7":{"type":"collapsible_row","settings":{"heading":"What is your return policy?","icon":"check_mark","row_content":"<p>We offer a 30-day return policy on most items. If you are not satisfied with your purchase, please contact our customer support team to initiate a return. Items must be returned in their original condition.<\/p>","page":""}}},"block_order":["collapsible_row_3cJJ7V","collapsible_row_WcEknk","collapsible_row_JAwUcA","collapsible_row_Yzn6c7"],"name":"t:sections.collapsible_content.presets.name","settings":{"caption":"","heading":"FAQ","heading_size":"h1","heading_alignment":"center","layout":"none","container_color_scheme":"","color_scheme":"","open_first_collapsible_row":false,"image_ratio":"adapt","desktop_layout":"image_second","padding_top":36,"padding_bottom":36}},"multicolumn_Dd3t7e":{"type":"multicolumn","blocks":{"column_BxPhpt":{"type":"column","settings":{"title":"<strong>Trey M.<\/strong>","text":"<p>⭐️⭐️⭐️⭐️⭐️<\/p><p>“Fire drop. The fit is perfect — heavy tee, clean print. 100% recommended.”<\/p>","link_label":"","link":""}},"column_HFGYpK":{"type":"column","settings":{"title":"<strong>Lia J.<\/strong>","text":"<p>⭐️⭐️⭐️⭐️⭐️<\/p><p>“Love how bold this looks. Wore the GATEDGOAT hoodie to a show and everybody asked where I got it.”<\/p>","link_label":"","link":""}},"column_aVhNE9":{"type":"column","settings":{"title":"<strong>Chris B.<\/strong>","text":"<p>⭐️⭐️⭐️⭐️⭐️<\/p><p>“Real street vibe, real quality. Shipping was fast too. Already waiting for the next drop.”<\/p>","link_label":"","link":""}},"column_MDn4ia":{"type":"column","settings":{"title":"<strong>Devin K.<\/strong>","text":"<p>⭐️⭐️⭐️⭐️⭐️<\/p><p>“The street style is next level — fits loose just like I like. GATEDGOAT is my new go-to.”<\/p>","link_label":"","link":""}},"column_XD73Da":{"type":"column","settings":{"title":"<strong>Sasha V.<\/strong>","text":"<p>⭐️⭐️⭐️⭐️⭐️<\/p><p>“Ordered for the drop, didn’t disappoint. Heavy, high quality feel, not some cheap tee.”<\/p>","link_label":"","link":""}}},"block_order":["column_BxPhpt","column_HFGYpK","column_aVhNE9","column_MDn4ia","column_XD73Da"],"disabled":true,"name":"t:sections.multicolumn.presets.name","settings":{"title":"<strong>REVIEWS<\/strong>","heading_size":"h1","image_width":"full","image_ratio":"adapt","button_label":"","button_link":"","columns_desktop":5,"column_alignment":"center","background_style":"none","color_scheme":"scheme-2","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"rich_text_VnPp6K":{"type":"rich-text","blocks":{"heading_jNJTFm":{"type":"heading","settings":{"heading":"GATEDGOAT","heading_size":"h1"}},"text_RpYjW4":{"type":"text","settings":{"text":"<p>A new perspective in your inbox. Sign up for our newsletter to stay connected on events happenings, product launches, and more.<\/p>"}},"button_mzGEdz":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_jNJTFm","text_RpYjW4","button_mzGEdz"],"name":"t:sections.rich-text.presets.name","settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}}},"order":["image_banner","rich_text_KfLFDg","featured_collection","multicolumn_eBgDEc","collapsible_content_zDTxEr","multicolumn_Dd3t7e","rich_text_VnPp6K"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse our latest products",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/banner_6.png",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "image_behavior": "none",
+        "desktop_content_position": "bottom-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-3",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "rich_text_KfLFDg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_tP66Ki": {
+          "type": "heading",
+          "settings": {
+            "heading": "Legends don’t die — they get printed.",
+            "heading_size": "h1"
+          }
+        },
+        "text_x7Y3Cr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wear the legend. Live the story.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tP66Ki",
+        "text_x7Y3Cr"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all",
+        "products_to_show": 8,
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_eBgDEc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4mrJgM": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>For the Culture</strong>",
+            "text": "<p><br/>Inspired by the beats, the blocks, and the bars that built our world. Gear up in pieces that speak loud.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8nk8F6": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Legend Energy</strong>",
+            "text": "<p><br/>Streetwear with a story. Each drop designed to honor icons — past, present, and next up.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AaNnTj": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Set the Tone</strong>",
+            "text": "<p><br/>Stand out, stay real. From chill days to loud nights, GATEDGOAT keeps you ahead of the wave.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4mrJgM",
+        "column_8nk8F6",
+        "column_AaNnTj"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>INSIGHT & INSPIRATION</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "Shop the Drop",
+        "button_link": "shopify://collections/all",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_zDTxEr": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_3cJJ7V": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What's my size?",
+            "icon": "check_mark",
+            "row_content": "<p>You can find our <strong>measurement guide</strong> on the product page. Select the size you want and we will show you what body measurements it is tailored to.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_WcEknk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I wash my gear?",
+            "icon": "check_mark",
+            "row_content": "<p>Machine wash cold, inside out, hang dry for best life.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JAwUcA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long do orders usually take to ship?",
+            "icon": "check_mark",
+            "row_content": "<p>As soon as you make a purchase, our fulfillment center immediately processes your order to get your gear delivered on time. Ground orders can take up to 3-4 business days to be packed and shipped. Once shipped, ground shipments can take as little as 4-5 business days to destinations within California and up to 5-10 business days to locations on the East Coast.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Yzn6c7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your return policy?",
+            "icon": "check_mark",
+            "row_content": "<p>We offer a 30-day return policy on most items. If you are not satisfied with your purchase, please contact our customer support team to initiate a return. Items must be returned in their original condition.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_3cJJ7V",
+        "collapsible_row_WcEknk",
+        "collapsible_row_JAwUcA",
+        "collapsible_row_Yzn6c7"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_Dd3t7e": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BxPhpt": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Trey M.</strong>",
+            "text": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>“Fire drop. The fit is perfect — heavy tee, clean print. 100% recommended.”</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HFGYpK": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Lia J.</strong>",
+            "text": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>“Love how bold this looks. Wore the GATEDGOAT hoodie to a show and everybody asked where I got it.”</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aVhNE9": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Chris B.</strong>",
+            "text": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>“Real street vibe, real quality. Shipping was fast too. Already waiting for the next drop.”</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MDn4ia": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Devin K.</strong>",
+            "text": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>“The street style is next level — fits loose just like I like. GATEDGOAT is my new go-to.”</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XD73Da": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Sasha V.</strong>",
+            "text": "<p>⭐️⭐️⭐️⭐️⭐️</p><p>“Ordered for the drop, didn’t disappoint. Heavy, high quality feel, not some cheap tee.”</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_BxPhpt",
+        "column_HFGYpK",
+        "column_aVhNE9",
+        "column_MDn4ia",
+        "column_XD73Da"
+      ],
+      "disabled": true,
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<strong>REVIEWS</strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_GnJCCw": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_TBHPK6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/20250707.png",
+            "title": "<strong>Underground Grit Crop Tee</strong>",
+            "text": "<p><strong>Raw edge. Elevated attitude.</strong><br/>Designed to turn heads. Spotted on our socials — should we make it official?<br/></p>",
+            "link_label": "Drop Your Feedback",
+            "link": ""
+          }
+        },
+        "column_fHx6mb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/20250708.png",
+            "title": "<strong>Legend Ink Hoodie</strong>",
+            "text": "<p><strong>Art meets legacy.</strong><br/>A tribute piece merging portrait ink with street codes. Tell us if it’s your next must-have.</p>",
+            "link_label": "Drop Your Feedback",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_TBHPK6",
+        "column_fHx6mb"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Fresh From the Design Lab",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_VnPp6K": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jNJTFm": {
+          "type": "heading",
+          "settings": {
+            "heading": "GATEDGOAT",
+            "heading_size": "h1"
+          }
+        },
+        "text_RpYjW4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A new perspective in your inbox. Sign up for our newsletter to stay connected on events happenings, product launches, and more.</p>"
+          }
+        },
+        "button_mzGEdz": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jNJTFm",
+        "text_RpYjW4",
+        "button_mzGEdz"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text_KfLFDg",
+    "featured_collection",
+    "multicolumn_eBgDEc",
+    "collapsible_content_zDTxEr",
+    "multicolumn_Dd3t7e",
+    "multicolumn_GnJCCw",
+    "rich_text_VnPp6K"
+  ]
+}
